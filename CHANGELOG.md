@@ -25,6 +25,7 @@ For the Swift error above Sentry displays:
 
 [Customized error descriptions](https://docs.sentry.io/platforms/apple/usage/#customizing-error-descriptions) have precedence over this feature.
 This change has no impact on grouping of the issues in Sentry.
+- Support for stitching async Swift Concurrency frames (#2983)
 
 ### Fixes 
 
